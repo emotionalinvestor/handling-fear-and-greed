@@ -30,7 +30,7 @@ function HandlingFearAndGreed() {
       <CssBaseline />
       <Container maxWidth="sm">
         <Box m={5}>
-          <h1>Help, I am stressing out - I am losing money!</h1>
+          <h1>Help, I am fearful - I am losing money!</h1>
           <p>Here's what you can do.</p>
 
           <h2>Check the latest news about The Federal Reserve</h2>
