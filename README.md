@@ -1,1 +1,7 @@
-# handling-fear-and-greed
+## Install
+
+`yarn`
+
+## Run
+
+`yarn start`
